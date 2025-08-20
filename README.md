@@ -1,1 +1,1 @@
-# electricity-consumption-tracker
+# electricity-consumption-tracking
